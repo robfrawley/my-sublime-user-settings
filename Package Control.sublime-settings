@@ -1,0 +1,39 @@
+{
+	"auto_upgrade": true,
+	"auto_upgrade_frequency": 2,
+	"cache_length": 300,
+	"http_cache": true,
+	"install_missing": true,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Chef",
+		"Color Highlighter",
+		"DictionaryAutoComplete",
+		"DocBlockr",
+		"Git",
+		"LESS",
+		"Markdown Extended",
+		"Predawn",
+		"SideBarEnhancements",
+		"Sublime-CSS3",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Theme - El Capitan",
+		"Theme - Glacier",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Twig"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	],
+	"submit_url": "https://sublime.wbond.net/submit",
+	"submit_usage": true
+}

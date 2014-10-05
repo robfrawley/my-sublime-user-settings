@@ -1,0 +1,10 @@
+{
+  "git_binary": "/usr/local/bin/git",
+  "live_mode": true,
+  "focus_change_mode": true,
+  "non_blocking": true,
+  "debounce_delay": 500,
+  "ignore_whitespace": "none",
+  "show_markers_on_untracked_file": false,
+  "patience": true
+}

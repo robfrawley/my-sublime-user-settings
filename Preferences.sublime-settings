@@ -1,0 +1,73 @@
+{
+	"auto_indent": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_inactive_tabs": false,
+	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "none",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_round",
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"gutter": true,
+	"highlight_line": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"line_numbers": true,
+	"match_brackets_content": false,
+	"match_selection": false,
+	"match_tags": false,
+	"open_files_in_new_window": true,
+	"overlay_scroll_bars": "enabled",
+	"paths":
+	{
+		"linux":
+		[
+			"/opt/bin",
+			"/scripts",
+			"~/bin/"
+		],
+		"osx":
+		[
+			"/usr/local/bin"
+		],
+		"windows":
+		[
+		]
+	},
+	"preview_on_click": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		120
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_full_path": false,
+	"spell_check": false,
+	"status_bar_brighter": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
+}

@@ -1,0 +1,7 @@
+*.cache
+*.DS_Store*
+*.system-ca-bundle
+*.last-run
+/Package Control.cache
+/Color Highlighter
+/SideBarEnhancements

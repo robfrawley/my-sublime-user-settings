@@ -1,0 +1,25 @@
+{
+    "save_first": true,
+    "git_command": "/usr/local/bin/git",
+    "git_flow_command": "/usr/local/bin/git-flow",
+    "diff_panel": false,
+    "status_opens_file": false,
+    "verbose_commits": true,
+    "history_size": 5,
+    "flow": false,
+    "annotations": false,
+    "statusbar_branch": false,
+    "statusbar_status": false,
+    "statusbar_status_symbols": {
+        "modified": "≠",
+        "added": "+",
+        "deleted": "×",
+        "untracked": "?",
+        "conflicts": "‼",
+        "renamed":"R",
+        "copied":"C",
+        "clean": "√",
+        "separator": " "
+    },
+    "diff_syntax": "Packages/Diff/Diff.tmLanguage"
+}

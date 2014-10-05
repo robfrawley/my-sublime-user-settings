@@ -1,0 +1,25 @@
+{
+    "alias": {
+        "home": "~",
+        "tmp": "/tmp"
+    },
+    "os_specific_alias": {
+        "projects": {
+            "linux": "~/projects",
+            "osx": "~/Projects"
+        }
+    },
+    "default_initial": ":",
+    "use_cursor_text": false,
+    "show_files": false,
+    "show_path": true,
+    "default_root": "project_folder",
+    "alias_root": "home",
+    "alias_path": "~",
+    "ignore_case": false,
+    "auto_refresh_sidebar": false,
+    "completion_type": "nix",
+    "relative_from_current": true,
+    "vcs_management": true,
+    "shell_input": false
+}
