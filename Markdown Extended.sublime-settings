@@ -6,8 +6,8 @@
 	[
 		"md"
 	],
-	"font_size": 16,
+	"font_size": 18,
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 100
 }
